@@ -11,7 +11,7 @@
 
 <p><i> Hi, I'm Rithik Sharma, I am an Undergraduate pursuing B.Tech (IT) from USICT, GGSIPU. I am a coding enthusiast, coding became my passion and it give me a reason to go into the tech world and explore more also solve some real-world problems to help my society I am also an enthusiast of Full Stack Web Development. I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source communities. Upcoming time I am also planning to start an open-source community ⭐..</i></p>
 
-- 🌱 I’m currently learning **Js, React.js, Cpp.**
+- 🌱 I’m currently learning **Mern Stack,Java,DSA.**
 
 - 📫 How to reach me **srithik645@gmail.com**
 - 👨‍💻 Check out my projects **<code>[here!](https://github.com/rithik-sharma?tab=repositories)</code>**
