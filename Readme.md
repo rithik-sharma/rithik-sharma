@@ -6,8 +6,8 @@
 <h3 align="center">A passionate frontend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rithik-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="rithik-sharma" /> </p>
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height=47% width=47% align="right">
 
 <p><i> Hi, I'm Rithik Sharma, I am an Undergraduate pursuing B.Tech (IT) from USICT, GGSIPU. I am a coding enthusiast, coding became my passion and it give me a reason to go into the tech world and explore more also solve some real-world problems to help my society I am also an enthusiast of Full Stack Web Development. I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source communities. Upcoming time I am also planning to start an open-source community ⭐..</i></p>
