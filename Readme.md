@@ -26,7 +26,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rithik-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="rithik-sharma" /> </p>
 
-const RithikSharma = {
+```const RithikSharma = {
   about: "B.Tech IT student at USICT, GGSIPU passionate about Web Development, JAVA, and DSA.",
   passion: "Coding: a gateway to unleash tech's power, solve real-world problems, and drive positive change.",
   commitment: "Dedicated to leveraging technology for meaningful solutions and societal impact."
@@ -35,6 +35,7 @@ const RithikSharma = {
 console.log(`👋 Hey there! I'm Rithik Sharma: ${RithikSharma.about}`);
 console.log(`💻 ${RithikSharma.passion}`);
 console.log(`✨ Committed to making a difference through tech: ${RithikSharma.commitment}`);
+```
 
 <p><i> Hi, I'm Rithik Sharma, I am an Undergraduate pursuing B.Tech (IT) from USICT, GGSIPU. I am a coding enthusiast, coding became my passion and it give me a reason to go into the tech world and explore more also solve some real-world problems to help my society I am also an enthusiast of Full Stack Web Development. I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source communities. Upcoming time I am also planning to start an open-source community ⭐..</i></p>
 
