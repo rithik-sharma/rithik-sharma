@@ -19,7 +19,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rithik+😊;Nice+to+meet+you!+🚀;Have+a+great+day✨&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end,+Developer!+👋;Top-Skills+😊;Responsive+CSS+🚀;Tailwind+✨;Javascript+✨;React.js+✨;Redux-toolkit+✨&center=true&size=30">
   </a>
 </h1>
 <h3 align="center">A passionate frontend developer.</h3>
