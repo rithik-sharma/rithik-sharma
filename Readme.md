@@ -8,8 +8,9 @@
 
 <!-- Insert Your Coding Related GIF -->
 <p align="center">
-  <img src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding GIF" width="400" />
+  <img src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e476wr2fufn0goubauqwxydyxhmvk5icwdrah1q376o&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coding GIF" width="400" />
 </p>
+
 
 <!-- ... (Your existing content remains unchanged) ... -->
 
