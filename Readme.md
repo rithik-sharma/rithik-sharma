@@ -26,7 +26,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rithik-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="rithik-sharma" /> </p>
 
-```const RithikSharma = {
+```
+const RithikSharma = {
   about: "B.Tech IT student at USICT, GGSIPU passionate about Web Development, JAVA, and DSA.",
   passion: "Coding: a gateway to unleash tech's power, solve real-world problems, and drive positive change.",
   commitment: "Dedicated to leveraging technology for meaningful solutions and societal impact."
