@@ -45,7 +45,7 @@ console.log(`✨ Committed to making a difference through tech: ${RithikSharma.c
 
 - 😄 Pronouns *<code>He/Him</code>*
 
-- ⚡ Fun fact *<code>I think I am funny</code>*
+- ⚡ Fun fact *<code>Facts get an instant upgrade to 'fun' status when read with an accent! Try it, mate! 🗣️😄🌍"</code>*
 
 
 
